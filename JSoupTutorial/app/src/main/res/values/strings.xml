@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JSoupTutorial</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Title">Website Title</string>
+    <string name="Description">Website Description</string>
+    <string name="Logo">Website Logo</string>
+    <string name="LogoSrc">Website Logo Src</string>
+    <string name="TestConn">Test Connectivity</string>
+</resources>
